@@ -2,9 +2,6 @@
 
 This roadmap is designed to help you become a **job-ready QA Automation Engineer** using Selenium in 2026.
 
-## 📄 Download the Roadmap
-👉 [Click here to download the PDF](PASTE_YOUR_PDF_LINK_HERE)
-
 ---
 
 ## 🧠 What You'll Learn
